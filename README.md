@@ -42,6 +42,7 @@ Users should be able to:
 - CSS custom properties
 - Flexbox
 - [jQuery](https://jquery.com/)
+- [fontawesome](https://fontawesome.com/kits)
 
 
 ## Author
